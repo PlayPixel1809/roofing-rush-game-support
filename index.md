@@ -4,7 +4,7 @@ Welcome to the official support page for **Build Fast. Beat the Storm.** If you 
 
 ## 📩 How to Contact Us
 For bug reports, technical help, or feedback, please email our support team directly:
-* **Email:** support@yourdomain.com *(Replace with your actual email)*
+* **Email:** bfhremodeling@gmail.com
 * **Response Time:** We typically reply within 24–48 hours.
 
 ## 🛠️ Frequently Asked Questions (FAQ)
